@@ -1,30 +1,107 @@
-![MasterHead](https://i.pinimg.com/originals/2f/f4/28/2ff428006f3ade5f10beac69372062ab.gif)
-<h1 align="center">Hi 👋, I'm Vansh Kapoor</h1>
-<h3 align="center">Results-driven Full Stack Developer specializing in Flutter, RESTful API integration, and a wide array of programming languages and tools, including Java, Git, Firebase, Linux, Flask, PHP, React.js, Node.js, MongoDB, Express.js, Python, C/C++, HTML, CSS, and JavaScript. Proficient in developing end-to-end solutions that marry intuitive user interfaces with robust back-end functionality.</h3>
-<img align="right" width="400"  alt="coding" src="https://camo.githubusercontent.com/01c83210f7feb975ea3b9a852808beb6689425add471f76f942c15875626af5d/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966" >
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=liegen47&label=Profile%20views&color=0e75b6&style=flat" alt="liegen47" /> </p>
+<div align="center">
+  <img src="https://asciify.its-apoorv.me/api/card?username=liegen47&card_font=%27Courier+New%27%2C+monospace&text_color=%23d97706&border_style=dashed" alt="Asciify GitHub Stats" />
+</div>
+<div align="center">
 
-<p align="left"> <a href="https://twitter.com/vanshkapoor418" target="blank"><img src="https://img.shields.io/twitter/follow/vanshkapoor418?logo=twitter&style=for-the-badge" alt="vanshkapoor418" /></a> </p>
+### `Frontend Engineer` · `React / Next.js / React Native` · `Bengaluru, IN`
 
-- 🌱 I’m currently learning **NodeJS and Express.js**
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-vansh-kapoor.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vanshkapoor418/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vanshkapoor418@gmail.com)
+![Profile Views](https://komarev.com/ghpvc/?username=liegen47&label=Profile%20views&color=0e75b6&style=for-the-badge)
 
-- 👯 I’m looking to collaborate on **full stack projects**
+</div>
 
-- 👨‍💻 All of my projects are available at [https://my-portfolio-gold-six.vercel.app/](https://my-portfolio-gold-six.vercel.app/)
+---
 
-- 💬 Ask me about **ReactJS, and Python**
+```
+   ╭──────────────────────────────────────────────────────────────────────╮
+   │                                                                        │
+   │   $ whoami                                                             │
+   │   → frontend engineer shipping web + mobile from one monorepo          │
+   │                                                                        │
+   │   $ cat stack.txt                                                      │
+   │   → react · next.js · react native · typescript · turborepo            │
+   │                                                                        │
+   │   $ ls ~/current                                                       │
+   │   → next-crm/   rn-mobile-app/   shared-packages/   ci-cd/             │
+   │                                                                        │
+   │   $ git log --oneline -3                                               │
+   │   → 3f9a1c  virtualized 60fps data grid                                │
+   │   → e21b7d  no-code workflow + page builders                           │
+   │   → a04e88  streaming AI assistant over SSE                            │
+   │                                                                        │
+   ╰──────────────────────────────────────────────────────────────────────╯
+```
 
-- 📫 How to reach me **vanshkapoor418@gmail.com**
+## ⚡ Currently
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/vanshkapoor418" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vanshkapoor418" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/vanshkapoor418/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vanshkapoor418/" height="30" width="40" /></a>
-</p>
+Building **RecordBook & Peso** at **Mensa Labs (YC W22)** — a no-code spreadsheet/CRM suite used by **500K+ businesses**, shipping across a **Turborepo** monorepo that spans a Next.js web app and a React Native / Expo mobile app.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+```
+  ▸ virtualized data grids ............... 60 FPS on large datasets
+  ▸ drag-and-drop kanban + workflows ..... React Flow · Craft.js · dnd-kit
+  ▸ streaming AI assistant ............... Server-Sent Events + branching
+  ▸ mobile perf .......................... 10s freeze → <1s (Hermes profiling)
+  ▸ ci/cd ................................ ~60% faster builds on Cloud Run
+```
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=liegen47&show_icons=true&locale=en&layout=compact" alt="liegen47" /></p>
+Before this, I architected the frontend of **Zoca's** website platform — a **React-to-JSON layout engine** rendering **10,000+ composable layouts** to static HTML via **Astro**, pushing **Lighthouse 70 → 97 (mobile) / 100 (desktop)**.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=liegen47&" alt="liegen47" /></p>
+📄 IEEE-published — [*SECURE-MEDSHARE: Decentralized Patient Data Sharing*](https://ieeexplore.ieee.org/document/10533486/) (2024)
+
+---
+
+## 🧰 Toolbox
+
+```
+Languages    TypeScript  ·  JavaScript  ·  Python  ·  SQL
+Frontend     React  ·  Next.js  ·  React Native  ·  Expo  ·  Astro  ·  Redux Toolkit
+             TanStack Query  ·  Tailwind CSS  ·  HeroUI
+Backend      Node.js  ·  Express  ·  REST  ·  WebSocket  ·  SSE
+Data         PostgreSQL  ·  MongoDB  ·  MySQL  ·  Supabase  ·  Drizzle
+Infra        Turborepo  ·  Docker  ·  Google Cloud Run  ·  GitHub Actions  ·  EAS
+Quality      Playwright  ·  Jest  ·  ESLint  ·  Prettier
+```
+
+<div align="center">
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Astro](https://img.shields.io/badge/Astro-BC52EE?style=flat-square&logo=astro&logoColor=white)
+![Turborepo](https://img.shields.io/badge/Turborepo-EF4444?style=flat-square&logo=turborepo&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
+
+</div>
+
+---
+
+<div align="center">
+
+<!-- The public github-readme-stats service is frequently down (503 DEPLOYMENT_PAUSED).
+     The stats + top-langs cards are left OUT so your profile never shows a broken image.
+     After you self-host your own instance, uncomment the two lines below and swap in your URL. -->
+
+<!--
+![Stats](https://YOUR-INSTANCE.vercel.app/api?username=liegen47&show_icons=true&hide_border=true&theme=tokyonight)
+![Top Langs](https://YOUR-INSTANCE.vercel.app/api/top-langs?username=liegen47&layout=compact&hide_border=true&theme=tokyonight&langs_count=8)
+-->
+
+![Streak](https://streak-stats.demolab.com/?user=liegen47&hide_border=true&theme=tokyonight)
+
+</div>
+
+---
+
+<div align="center">
+
+```
+╔══════════════════════════════════════════════════════════════╗
+║          "make it work · make it right · make it 60fps"        ║
+╚══════════════════════════════════════════════════════════════╝
+```
+
+</div>
